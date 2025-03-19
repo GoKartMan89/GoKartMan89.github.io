@@ -6,6 +6,6 @@ function getJSONData(){
                     }
                     return response.json();  
                 })
-                .then(data => console.log(data[0])) // Work with JSON Data
+                .then(data => console.log(data.songs[0].id)) // Work with JSON Data
                 .catch(error => console.error('Failed to fetch data:', error)); 
 }
