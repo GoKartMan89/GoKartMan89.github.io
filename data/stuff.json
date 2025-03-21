@@ -6,6 +6,13 @@
 	"release": "1999",
 	"console": "N64",
 	"series": "Zelda"
+      },
+      {
+  "id": "1",
+  "name": "Athletic Theme",
+  "release": "1991",
+  "console": "SNES",
+  "series": "Mario"
       }
     ]
   }
